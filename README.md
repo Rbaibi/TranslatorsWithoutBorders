@@ -1,7 +1,6 @@
 # Translators Without Borders Challenge
-2nd edition of the Hackathon for Peace, Justice and Security
+[2nd edition of the Hackathon for Peace, Justice and Security](https://www.hackathonforgood.org)
 
-https://www.hackathonforgood.org
 
 ## HELP BRIDGE THE LANGUAGE GAP IN HUMANITARIAN WORK.
 Improving humanitarian assistance by prioritising translation needs through automatic impact assessment.
@@ -28,24 +27,9 @@ a) A static solution for a (repeatable) one-time analysis would suffice;
 
 b) However, it would ideally be available via an API for integration with TWB’s translation management system. 
 
-**Datasets:**
+# Datasets
 
-TWB corpus of ~5000 documents with the following metadata for each document:
-
-original file format (.docx, .pdf, .pptx etc.)
-
-time of translation request
-
-NGO making the request
-
-target language (source language is English for majority of the documents)
-
-target country (probably of limited reliability)
-
-The documents will be provided as text files.
-
-Data from the United Nations Office for the Coordination of Humanitarian Affairs (OCHA)
-
+You can gain access to the datasets through the hackathon slack channel.
 
 
 ## Deep Learning Resources
