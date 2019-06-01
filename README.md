@@ -1,6 +1,8 @@
 # Translators Without Borders Challenge
 2nd edition of the Hackathon for Peace, Justice and Security
 
+https://www.hackathonforgood.org
+
 ## HELP BRIDGE THE LANGUAGE GAP IN HUMANITARIAN WORK.
 Improving humanitarian assistance by prioritising translation needs through automatic impact assessment.
 
